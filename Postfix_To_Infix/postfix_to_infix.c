@@ -5,13 +5,18 @@
   the stack as a stromg/
 - If there is only one string in the stack, that value is the desired infix string
 - NOTE***: the stack must be a stack of strings*/
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
 #include <math.h>
+#include <vld.h>
 #include "stack_string.h"
+
 #define STR_SIZE 100
+
 char *ScanLineStdin(char *dest, int dest_len);
+
 int main(int argc, char *argv[])
 {
 	char postfix[50], operand[30], a[30], b[30], expression[50], operator[2];
