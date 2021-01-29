@@ -1,0 +1,6 @@
+Visual Leak Detector read settings from: C:\Program Files (x86)\Visual Leak Detector\vld.ini
+Visual Leak Detector Version 2.5.1 installed.
+Enter a postfix expression: -2.5 12 * 97 -2.2 / +
+The result of "-2.5 12 * 97 -2.2 / +" is -74.090909
+No memory leaks detected.
+Visual Leak Detector is now exiting.
