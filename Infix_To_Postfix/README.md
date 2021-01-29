@@ -1,2 +1,0 @@
-# Infix to Postfix Expression Converter
-Converts an infix expression to an postfix expression. Works for Works for +, -, /, *, positve/negative, integer/float, and square roots denoted by "$". An infix expression is what a normal mathematical expression looks like such as 1 + 2 whereas a postfix expression is when the operator comes after the operands such as 1 2 +. See example_output.txt for an example of the program output.
